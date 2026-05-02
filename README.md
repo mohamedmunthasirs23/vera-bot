@@ -1,6 +1,6 @@
 # Vera Bot — magicpin AI Challenge Submission
 
-**Team**: Munthasir  
+**Team**: Muntasir  
 **Contact**: smuntasir2005@gmail.com  
 **Model**: llama-3.3-70b-versatile (Groq)  
 **Version**: 1.0.0
