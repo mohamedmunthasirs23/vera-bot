@@ -42,9 +42,6 @@ TEST_SCENARIO = "full_evaluation"
 # ██████  END OF CONFIGURATION - DON'T EDIT BELOW THIS LINE ██████
 # =============================================================================
 
-from dotenv import load_dotenv
-load_dotenv()
-
 import os
 import sys
 import json
