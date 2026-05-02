@@ -21,6 +21,8 @@ import uuid
 import httpx
 import asyncio
 import logging
+from dotenv import load_dotenv
+load_dotenv() # Load from .env file
 from datetime import datetime, timezone
 from typing import Any, Optional
 from fastapi import FastAPI, Request, HTTPException
