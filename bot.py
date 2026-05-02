@@ -33,7 +33,7 @@ log = logging.getLogger("vera-bot")
 
 # ─── Config ───────────────────────────────────────────────────────────────────
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "gsk_your_groq_api_key_here")
 MODEL = "llama-3.3-70b-versatile"
 MAX_TOKENS = 1000
 TIMEOUT_SEC = 28  # stay under judge's 30s hard limit
