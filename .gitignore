@@ -1,6 +1,5 @@
 .env
 __pycache__/
 *.pyc
-submission.jsonl
-dataset/
 .DS_Store
+judge_sim_all.py
