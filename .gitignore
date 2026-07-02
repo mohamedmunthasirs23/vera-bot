@@ -1,5 +1,6 @@
 .env
 __pycache__/
 *.pyc
+*.pyo
 .DS_Store
-judge_sim_all.py
+*.log
